@@ -1,6 +1,2 @@
-*.fw filter=lfs diff=lfs merge=lfs -text
-*.sig filter=lfs diff=lfs merge=lfs -text
-*.ta filter=lfs diff=lfs merge=lfs -text
-*.zip filter=lfs diff=lfs merge=lfs -text
 *.TZTA filter=lfs diff=lfs merge=lfs -text
 *.FCFW filter=lfs diff=lfs merge=lfs -text
